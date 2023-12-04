@@ -1,6 +1,6 @@
 # sairra-demo
 This is my repository
 <br>
-<text align="center" bg="red">
+<style="text-align:center; background-color:red">
 Author - Sai Prashanth Arra
-<text>
+<style>
